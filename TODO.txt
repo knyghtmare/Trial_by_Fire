@@ -1,2 +1,7 @@
 1. Get recall cost reduction code
-2. 
+2. apply recall cost adjustment
+3. Refine maps for apline/snow theme
+4. review enemy sides, give leaders better names
+5. add special events for each level
+6. bug-check playtesting
+7. balance
