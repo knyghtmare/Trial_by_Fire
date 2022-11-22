@@ -5,8 +5,8 @@ local wml_actions = wesnoth.wml_actions
 local T = wml.tag
 
 -- support for translatable strings, custom textdomain
-local _ = wesnoth.textdomain "wesnoth-AotW"
--- #textdomain wesnoth-AotW
+local _ = wesnoth.textdomain "wesnoth-Two_Brothers"
+-- #textdomain wesnoth-Two_Brothers
 
 -- [item_dialog]
 -- an alternative interface to pick items
