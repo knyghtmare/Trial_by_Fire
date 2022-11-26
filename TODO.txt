@@ -3,3 +3,24 @@
 5. add special events for each level
 6. bug-check playtesting
 7. balance
+
+Scenario 1:
+add special select event for each brother
+add special event for wose ambush
+add more first encounter events
+
+Scenario 2:
+add special ambush for the armor
+add special village capture ambushes
+
+Scenario 3:
+add special village capture surprise event
+add mudcrawler ambush event
+Add rock scorprion ambush event
+
+Scenario 4:
+add more events
+
+Scenario 5:
+add village capture surprise events
+add blood splatters
