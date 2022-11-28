@@ -10,7 +10,6 @@ add special event for wose ambush
 add more first encounter events
 
 Scenario 2:
-add special ambush for the armor
 add special village capture ambushes
 
 Scenario 3:
