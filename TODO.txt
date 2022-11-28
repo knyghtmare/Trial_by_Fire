@@ -5,7 +5,6 @@
 7. balance
 
 Scenario 1:
-add special select event for each brother
 add special event for wose ambush
 add more first encounter events
 
