@@ -3,6 +3,7 @@ Changelog
 v 0.0.2
 -> More updates to scenarios
 -> more events
+-> player leaders: +withervein ability
 
 v 0.0.1
 -> Initial development
