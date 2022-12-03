@@ -130,7 +130,7 @@ function wml_actions.item_dialog( cfg )
 	end
 end
 
--- the three tags below are WML/Lua remakes of Javascript's standard dialogs alert(), confirm() and prompt()
+-- the tag below is one of the WML/Lua remakes of Javascript's standard dialogs alert(), confirm() and prompt()
 function wml_actions.alert( cfg )
 	if cfg.title then
 		gui.alert(cfg.title, cfg.message)
