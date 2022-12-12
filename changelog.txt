@@ -1,5 +1,8 @@
 Changelog
 
+v 1.0.3
+-> S3: fix a missing coordiates on an event
+
 v 0.0.2
 -> More updates to scenarios
 -> more events
