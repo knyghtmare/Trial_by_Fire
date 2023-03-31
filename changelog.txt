@@ -1,5 +1,9 @@
 Changelog
 
+v 1.0.2
+-> S1: fix a typo
+--> Rank changed from 1 to 459
+
 v 1.0.1
 -> S3: fix a missing coordiates on an event
 
