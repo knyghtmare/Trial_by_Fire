@@ -1,5 +1,15 @@
 Changelog
 
+V 1.0.5
+--> S1: add extra secondary keeps
+--> S2: give players extra 20 gold on all difficulties
+--> integrate War of Legends
+--> player recruit lists swapped to more goblins and lesser orcs
+    --> Orc Assassin, Goblin Spearman, Goblin Impaler, Goblin Scout, Wolf Rider, Goblin Cavalry
+--> S3: make slightly easier
+--> S3: fixed bug in scenario moveto event
+--> S4: make slightly easier
+
 v 1.0.2
 -> S1: fix a typo
 --> Rank changed from 1 to 459
