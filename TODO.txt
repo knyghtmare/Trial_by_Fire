@@ -1,8 +1,6 @@
 3. Refine maps for apline/snow theme
 4. review enemy sides, give leaders better names
 5. add special events for each level
-6. bug-check playtesting
-7. balance
 
 Scenario 1:
 add special event for wose ambush
