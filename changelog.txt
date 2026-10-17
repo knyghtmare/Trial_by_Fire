@@ -1,5 +1,11 @@
 Changelog
 
+V 1.0.8
+--> Move to using "regroup" MAI over the scripted event AI
+--> add campaign performance scoring system
+    --> special mention to Mirion147 for suggesting this in December 2022
+    --> which was finally implemented this year
+
 V 1.0.5
 --> S1: add extra secondary keeps
 --> S2: give players extra 20 gold on all difficulties
