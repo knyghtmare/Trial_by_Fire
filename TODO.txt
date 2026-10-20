@@ -6,6 +6,4 @@ Scenario 3:
 add special village capture surprise event
 Add rock scorprion ambush event
 
-Scenario 4:
-add more events
 
